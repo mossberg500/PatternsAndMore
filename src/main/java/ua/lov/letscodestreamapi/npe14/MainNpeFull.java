@@ -15,7 +15,7 @@ public class MainNpeFull {
     }
 
     public static String jdk14(Object data) {
-        if (data instanceof String ) {
+        if (data instanceof String) {
             String knownType = (String) data;
             return knownType.toLowerCase();
         }
