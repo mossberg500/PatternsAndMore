@@ -1,4 +1,4 @@
-package mathematic;
+package ua.lov.mathematic;
 
 import java.util.ArrayList;
 import java.util.HashMap;

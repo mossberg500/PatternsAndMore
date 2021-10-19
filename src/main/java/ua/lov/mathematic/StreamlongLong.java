@@ -1,4 +1,4 @@
-package mathematic;
+package ua.lov.mathematic;
 
 import java.util.Arrays;
 import java.util.Objects;

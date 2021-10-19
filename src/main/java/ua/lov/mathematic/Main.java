@@ -1,4 +1,4 @@
-package mathematic;
+package ua.lov.mathematic;
 
 import java.util.Arrays;
 import java.util.Objects;
@@ -6,7 +6,7 @@ import java.util.Objects;
 public class Main {
     public static void main(String[] args) {
         Discr discr = new Discr();
-  //      System.out.println(discr.quare(1, -1, -90));
+        System.out.println(discr.quare(3, -7, 2));
   //      System.out.println(discr.quare(1, -1, 1));
   //      System.out.println(discr.quare(1, 12, 17));
   //      System.out.println(discr.quare(1, 4, -15));

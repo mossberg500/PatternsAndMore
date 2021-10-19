@@ -29,8 +29,8 @@ public class DostavkApp {
         String str = "";
         try {
             while ((str = br.readLine()) != null) {
-                String lowcase = "("+str.toLowerCase()+")\n";
-             //   String lowcase = "'"+str.toLowerCase()+"'\n";
+            //    String lowcase = "("+str.toLowerCase()+")\n";
+                String lowcase = "'"+str.toLowerCase()+"'\n";
 
                 stringBuilder.append(",").append(lowcase);
             }
